@@ -6,4 +6,22 @@
     <string name="prediction">Prediction</string>
     <string name="location">Location</string>
     <string name="image_view">image_view</string>
+    <string name="sunset">Sunset</string>
+    <string name="pm">PM</string>
+    <string name="_05_51">05:51</string>
+    <string name="visibility">Visibility</string>
+    <string name="_9000">9000</string>
+    <string name="humidity">Humidity</string>
+    <string name="_66">66</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="am">AM</string>
+    <string name="_05_52">05:52</string>
+    <string name="wind">Wind</string>
+    <string name="_2_57">2.57</string>
+    <string name="pressure">Pressure</string>
+    <string name="_1011">1011</string>
+    <string name="_32">32</string>
+    <string name="c">°C</string>
+    <string name="date_home">Tue, 13 April 2021</string>
+    <string name="bogor">Bogor</string>
 </resources>
