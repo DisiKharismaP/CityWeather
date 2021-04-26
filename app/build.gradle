@@ -83,5 +83,6 @@ dependencies {
     implementation "com.squareup.retrofit2:adapter-rxjava3:$retrofitVersion"
     implementation "io.reactivex.rxjava3:rxandroid:$rxJavaVersion"
     implementation "io.reactivex.rxjava3:rxjava:$rxJavaVersion"
+    implementation "com.github.delight-im:Android-SimpleLocation:v1.0.1"
 
 }
